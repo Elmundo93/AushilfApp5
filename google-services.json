@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845724938702",
+    "firebase_url": "https://aushilfapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "aushilfapp",
+    "storage_bucket": "aushilfapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845724938702:android:263e5671d05737688abb9f",
+        "android_client_info": {
+          "package_name": "com.WirHelfenAusEV.AushilfApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845724938702-b0ijrh45jd36becjv98ah1bfop6t3m61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjUWnfvWU6CHGo3bMmigGTOQWozy6pSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845724938702-b0ijrh45jd36becjv98ah1bfop6t3m61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845724938702-fjn0fb649e5kp7bbmtq9kcjvi2hj8idj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.WirHelfenAusEV.AushilfApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
