@@ -12,6 +12,11 @@ import { User, onAuthStateChanged } from 'firebase/auth';
 import { FIREBASE_AUTH } from '@/firebaseConfig';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import {FRProvider} from 'react-native-full-responsive';
+import './shim.js';
+
+
+global.Buffer = global.Buffer || require('buffer').Buffer;
+global.process = require('process');
 
 
 
